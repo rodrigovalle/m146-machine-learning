@@ -1,0 +1,2 @@
+test:
+	python regression.py

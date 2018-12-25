@@ -1,0 +1,15 @@
+Finished homework assignment
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Changes to be committed:
+#	modified:   code/src/regression.py
+#	new file:   fig/find_m.png
+#	new file:   fig/find_m2.png
+#	new file:   fig/test_data.png
+#	new file:   fig/train_data.png
+#	new file:   ps2_code.md
+#	new file:   ps2_code.pdf
+#	deleted:    pst_code.md
+#
